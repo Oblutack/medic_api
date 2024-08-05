@@ -1,0 +1,7 @@
+E:\MedicLabV2\MedicWebApi\obj\Debug\net7.0\MedicWebApi.csproj.AssemblyReference.cache
+E:\MedicLabV2\MedicWebApi\obj\Debug\net7.0\MedicWebApi.GeneratedMSBuildEditorConfig.editorconfig
+E:\MedicLabV2\MedicWebApi\obj\Debug\net7.0\MedicWebApi.AssemblyInfoInputs.cache
+E:\MedicLabV2\MedicWebApi\obj\Debug\net7.0\MedicWebApi.AssemblyInfo.cs
+E:\MedicLabV2\MedicWebApi\obj\Debug\net7.0\MedicWebApi.csproj.CoreCompileInputs.cache
+E:\MedicLabV2\MedicWebApi\obj\Debug\net7.0\MedicWebApi.MvcApplicationPartsAssemblyInfo.cs
+E:\MedicLabV2\MedicWebApi\obj\Debug\net7.0\MedicWebApi.MvcApplicationPartsAssemblyInfo.cache
